@@ -1,0 +1,24 @@
+{
+  "project": "61-evalgate",
+  "name": "EvalGate",
+  "network": "studionet",
+  "chainId": 61999,
+  "rpc": "https://studio.genlayer.com/api",
+  "explorer": "https://explorer-studio.genlayer.com",
+  "contractAddress": "0xe1EB337542D67b51cfB61ebDEc0b9D9D49490B79",
+  "deployTxHash": "0xb99ce2c58a6826c9ebbaaad4a64b20651920c112b5d3883ce3174df1254aac58",
+  "contractExplorer": "https://explorer-studio.genlayer.com/address/0xe1EB337542D67b51cfB61ebDEc0b9D9D49490B79",
+  "deployer": "0xeD880b6b8c871bE9eec75db941521170A0Db6944",
+  "deployedAt": "2026-08-11T04:28:27.583Z",
+  "statusName": "FINALIZED",
+  "smoke": {
+    "create_case": "0x003096a3acd62269102de5cf805dafefe329b517257ae8fd9f063cff017430ff",
+    "caseId": "0",
+    "review": "0x766e484377bef4d84ace949dc9f18a7ba397468b128936a1bdfbc15e078f1591",
+    "child_a": "0x996488d2817f2dca45ffdeae4aecea019a4e1f82bdf8d04f587ab19bdd7949db",
+    "child_b": "0x0aa5099c9582b337c10c42b42d311c5f3a3920b3e8248b687600cd8b90d41921",
+    "add_evidence_web": "0x226c5a95ee9e81872223c184a5bb76916717fab7da66e9b6490469decc05e159",
+    "add_evidence_security": "0xaaebf69f4276ddd57e16d62ef3fa9372305041d86cf69324c80d306907b54089",
+    "add_evidence_whitepaper": "0x6f86aaca2dd58e7cd6b4badb28df8d001f07abd1a9910a2ba44b3b27bd295d03"
+  }
+}

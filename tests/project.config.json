@@ -1,0 +1,12 @@
+{
+  "project": "61-evalgate",
+  "className": "EvalGate",
+  "file": "evalgate.py",
+  "create": "propose_model_release",
+  "resolve": "assess_release_gate_with_genlayer",
+  "archive": "archive_model_release",
+  "count": "get_model_release_count",
+  "get": "get_model_release",
+  "childA": "add_evaluation_run",
+  "childB": "add_risk_finding"
+}
