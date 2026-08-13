@@ -8,6 +8,7 @@ EvalGate is a GenLayer Studionet application for ai model evaluation and release
 
 | Layer | Implementation |
 | --- | --- |
+| Live app | [evalgate-registry.vercel.app](https://evalgate-registry.vercel.app) |
 | Network | GenLayer Studionet, chain `61999` |
 | Contract | [`0xe1EB337542D67b51cfB61ebDEc0b9D9D49490B79`](https://explorer-studio.genlayer.com/address/0xe1EB337542D67b51cfB61ebDEc0b9D9D49490B79) |
 | Reasoning | `gl.nondet.web.render`, `gl.nondet.exec_prompt`, comparative validator consensus |
